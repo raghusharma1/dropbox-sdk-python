@@ -1,0 +1,7 @@
+mock
+pytest
+pytest_mock
+Requests
+six
+stone
+urllib3
